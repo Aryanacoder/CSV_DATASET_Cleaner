@@ -1,0 +1,21 @@
+{
+  "name": "csv-dataset-cleaning-assistant",
+  "version": "1.0.0",
+  "description": "AI-Powered CSV Dataset Cleaning Assistant with voice and text command capabilities",
+  "main": "vercel.py",
+  "scripts": {
+    "start": "streamlit run app.py"
+  },
+  "keywords": [
+    "csv",
+    "data-cleaning",
+    "streamlit",
+    "ai",
+    "voice-commands"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
